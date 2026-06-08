@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "newsphere_f",
+    "slug": "snack-277dcb41-8bce-4241-a4a5-ac21c8732008",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.neu_garcia_angelanne.snack277dcb418bce4241a4a5ac21c8732008"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c611b8bc-e7ea-45d1-b452-aa97843c6b57"
+      }
+    }
+  }
+}
